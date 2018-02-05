@@ -1,7 +1,7 @@
 {
-  "name": "emmanix2002/moneywave",
+  "name": "bosunski/moneywave",
   "type": "library",
-  "description": "An implementation of the Moneywave API by Flutterwave",
+  "description": "A Testimplementation of the Moneywave API emmanix2002 by Flutterwave",
   "keywords": [
     "emmanix2002",
     "moneywave",
@@ -9,13 +9,13 @@
     "flutterwave",
     "fintech"
   ],
-  "homepage": "https://github.com/emmanix2002/moneywave",
+  "homepage": "https://github.com/bosunski/moneywave",
   "license": "MIT",
   "authors": [
     {
-      "name": "Okeke Emmanuel",
-      "email": "emmanix2002@gmail.com",
-      "homepage": "https://about.me/eokeke",
+      "name": "Bosun Egberinde",
+      "email": "bosunski@gmail.com",
+      "homepage": "https://about.me/bosunski",
       "role": "Developer"
     }
   ],

@@ -26,6 +26,7 @@ use Emmanix2002\Moneywave\Service\ValidateAccountTransfer;
 use Emmanix2002\Moneywave\Service\ValidateCardTransfer;
 use Emmanix2002\Moneywave\Service\VerifyMerchant;
 use Emmanix2002\Moneywave\Service\WalletBalance;
+use Emmanix2002\Moneywave\Service\WalletCreation;
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
 use Monolog\Handler\ErrorLogHandler;
@@ -70,6 +71,7 @@ use Psr\Log\LoggerInterface;
  * @method TotalChargeToCard            createTotalChargeToCardService()
  * @method VerifyMerchant               createVerifyMerchantService()
  * @method WalletBalance                createWalletBalanceService()
+ * @method WalletCreation               createWalletCreationService()
  * @method ValidateCardTransfer         createValidateCardTransferService()
  * @method ValidateAccountTransfer      createValidateAccountTransferService()
  *
